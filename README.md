@@ -1,0 +1,2 @@
+# blog
+MagicBo's blog
