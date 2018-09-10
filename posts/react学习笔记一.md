@@ -287,7 +287,7 @@ var RepoList = React.createClass({
 ```
 
 # 参考文献
-[React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
-[setState详解](https://blog.csdn.net/sysuzhyupeng/article/details/63250741)
-[关于React setState的实现原理（一）](https://www.cnblogs.com/jasonlzy/p/8046118.html)
-[vue开发：vue,angular,react数据双向绑定原理分析](https://blog.csdn.net/generon/article/details/72835645)
+- [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
+- [setState详解](https://blog.csdn.net/sysuzhyupeng/article/details/63250741)
+- [关于React setState的实现原理（一）](https://www.cnblogs.com/jasonlzy/p/8046118.html)
+- [vue开发：vue,angular,react数据双向绑定原理分析](https://blog.csdn.net/generon/article/details/72835645)
